@@ -1,4 +1,4 @@
-name: "PyCaret AutoML Git Action"
+name: "CJ automl for funsies"
 description: "A simple example of AutoML created using PyCaret 2.0"
 inputs:
   DATASET:
