@@ -1,3 +1,4 @@
-# Automl
+# CJ automl for funsies
 
-I am attempting to test the automl functionality of pycaret
+Testing out a custom AutoML solution using PyCaret
+
